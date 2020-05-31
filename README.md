@@ -10,7 +10,7 @@ conda install pandas pymysql selenium #conda 版本
 ```
 python theses_crawler.py
 ```
-Note1: geckodriver 跟 theses_crawler.py 必須放在同一個 level 的目錄。
-Note2: 程式碼的說明寫在註解裡。
+###### Note1: geckodriver 跟 theses_crawler.py 必須放在同一個 level 的目錄。
+###### Note2: 程式碼的說明寫在註解裡。
 
 
